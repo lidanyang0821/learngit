@@ -1,0 +1,3 @@
+Git非常清楚地告诉我们，readme.txt被修改了，而LICENSE还从来没有被添加过，所以它的状态是Untracked。
+
+现在，使用两次命令git add，把readme.txt和LICENSE都添加后，用git status再查看一下：
